@@ -15,17 +15,6 @@ function App() {
 					Edit <code>src/App.js</code> and save to reload.
 				</p>
 				<img src={logo} className="App-logo" alt="logo" />
-				<p>
-					Edit <code>src/App.js</code> and save to reload.
-				</p>
-				<img src={logo} className="App-logo" alt="logo" />
-				<p>
-					Edit <code>src/App.js</code> and save to reload.
-				</p>
-				<img src={logo} className="App-logo" alt="logo" />
-				<p>
-					Edit <code>src/App.js</code> and save to fail.
-				</p>
 			</header>
 		</div>
 	);
