@@ -39,6 +39,8 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
     "eslint": "^8.21.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
@@ -53,6 +55,6 @@
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
-    "*.--write": "prettier --check"
+    "*.js": "prettier --check"
   }
 }
