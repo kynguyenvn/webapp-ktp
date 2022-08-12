@@ -2,10 +2,6 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-const s = '';
-const a = '';
-const e = '';
-
 function App() {
 	return (
 		<div className="App">
