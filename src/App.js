@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 const s = '';
+const a = '';
 
 function App() {
 	return (
